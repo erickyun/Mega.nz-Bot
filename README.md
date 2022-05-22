@@ -14,6 +14,13 @@ A simple telegram bot written in Python using Pyrogram framework to help you to 
 # Deploy
 Deploy your own Bot ♥️! **Star 🌟 Fork 🍴 and Deploy**
 
+
+Use this command and fill in config.py
+```
+cat config.sample > config.py
+nano config.py
+```
+
 ### Config Vars 📓,
 **Mandatory Vars,**
 - `APP_ID` - Your APP_ID. Get it from [my.telegram.org](my.telegram.org)
